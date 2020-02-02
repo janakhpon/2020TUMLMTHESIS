@@ -1,2 +1,2 @@
-# 2020TUMLMTHESIS
-Thesis collections for my friends at Technological University(Mawlamyine) 2020 papers
+# 2020TUMLMTHESIS/HtetYinMin
+Machine Learning Paper based on implementation of `Linear Regression` to predict human `Height` over `Weight` and `Weight` over `Height`. 
